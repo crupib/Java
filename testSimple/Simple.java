@@ -1,3 +1,4 @@
+package testSimple;
 class Simple{  
     public static boolean inTable() {
      int ntable = 100;
